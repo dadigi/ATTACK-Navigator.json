@@ -1,12 +1,13 @@
 {
 	"name": "APT Financial",
-	"version": "3.0",
-	"domain": "mitre-enterprise",
+	"versions": {
+		"attack": "8",
+		"navigator": "4.1",
+		"layer": "4.1"
+	},
+	"domain": "enterprise-attack",
 	"description": "Groups trageting financial industries",
 	"filters": {
-		"stages": [
-			"act"
-		],
 		"platforms": [
 			"Windows",
 			"Linux",
