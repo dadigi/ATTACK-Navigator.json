@@ -2740,7 +2740,40 @@
 	},
 	"legendItems": [],
 	"metadata": [],
-	"links": [],
+	"links": [
+		{
+			"label": "Turla",
+			"url": "https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0010%2FG0010-enterprise-layer.json"
+		},
+		{
+			"label": "APT28",
+			"url": "https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0007%2FG0007-enterprise-layer.json"
+		},
+		{
+			"label": "APT29",
+			"url": "https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0016%2FG0016-enterprise-layer.json"
+		},
+		{
+			"label": "Sandworm Team",
+			"url": "https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0034%2FG0034-enterprise-layer.json"
+		},
+		{
+			"label": "Dragonfly 2.0",
+			"url": "https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0074%2FG0074-enterprise-layer.json"
+		},
+		{
+			"label": "Indrik Spider",
+			"url": "https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0119%2FG0119-enterprise-layer.json"
+		},
+		{
+			"label": "Nomadic octopus",
+			"url": "https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0133%2FG0133-enterprise-layer.json"
+		},
+		{
+			"label": "TEMP.Veles",
+			"url": "https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0088%2FG0088-enterprise-layer.json"
+		}
+	],
 	"showTacticRowBackground": false,
 	"tacticRowBackground": "#dddddd",
 	"selectTechniquesAcrossTactics": true,
